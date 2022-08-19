@@ -7,7 +7,9 @@
 - Notebook_4 : Standard workflow and Logistic Regression
 - Notebook_5 : Binary Classification 
 - Notebook_6 : Multiclass Classification 
-- Notebook_7 : Convolutional Neural Networks and Computer Vision 
-- Notebook_8 : Application of Convolutional Neural Networks to an Image Recognition problem 
-- Notebook_9 : Modularity and Transfer Learning 
-- Notebook_10 : Application of Transfer Learning to a Computer Vision problem 
+- Notebook_7 : Recurrent Neural Networks and Name Classification
+- Notebook_8 : Convolutional Neural Networks and Computer Vision 
+- Notebook_9 : Application of Convolutional Neural Networks to an Image Recognition problem 
+- Notebook_10 : Modularity and Transfer Learning 
+- Notebook_11 : Application of Transfer Learning to a Computer Vision problem 
+- Notebook_12 : Example of Final Project (Image Style Transfer application deployed on streamlit)

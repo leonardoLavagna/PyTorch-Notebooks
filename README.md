@@ -1,7 +1,7 @@
 # PyTorch-Notebooks
 
 - Notebook_1 : Fundamentals
-- Notebook_2 : Optimizers and Loss Functions
+- Notebook_2 : Gradients, Optimizers and Loss Functions
 - Notebook_3 : Neural Networks and Activation Functions
 - Notebook_4 : Standard workflow and Linear Regression
 - Notebook_5 : Standard workflow and Logistic Regression

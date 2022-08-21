@@ -2,9 +2,9 @@
 
 - Notebook_1 : Fundamentals
 - Notebook_2 : Gradients, Optimizers and Loss Functions
-- Notebook_3 : Neural Networks and Activation Functions
-- Notebook_4 : Standard workflow and Linear Regression
-- Notebook_5 : Standard workflow and Logistic Regression
+- Notebook_3 : Standard workflow and Linear Regression
+- Notebook_4 : Standard workflow and Logistic Regression
+- notebook_5 : Neural Networks, Activation Functions and Digit Recognition
 - Notebook_6 : Binary Classification 
 - Notebook_7 : Multiclass Classification 
 - Notebook_8 : Recurrent Neural Networks and Name Classification

@@ -5,13 +5,10 @@
 - Notebook_3 : Standard workflow and Linear Regression
 - Notebook_4 : Standard workflow and Logistic Regression
 - notebook_5 : Neural Networks, Activation Functions and Digit Recognition
-
-
-- Notebook_7 : Multiclass Classification 
-- Notebook_8 : Recurrent Neural Networks and Name Classification
-- Notebook_9 : Convolutional Neural Networks and Computer Vision 
-- Notebook_10 : Application of Convolutional Neural Networks to an Image Recognition problem 
-- Notebook_11 : Modularity and Transfer Learning 
-- Notebook_12 : Application of Transfer Learning to a Computer Vision problem 
-- Notebook_13 : Experiment tracking
-- Notebook_14 : Example of Final Project (Image Style Transfer application deployed on streamlit)
+- Notebook_6 : Recurrent Neural Networks and Name Classification
+- Notebook_7 : Convolutional Neural Networks and Computer Vision 
+- Notebook_8 : Application of Convolutional Neural Networks to an Image Recognition problem 
+- Notebook_9 : Modularity and Transfer Learning 
+- Notebook_10 : Application of Transfer Learning to a Computer Vision problem 
+- Notebook_11 : Experiment tracking
+- Notebook_12 : Example of Final Project (Image Style Transfer application deployed on streamlit)

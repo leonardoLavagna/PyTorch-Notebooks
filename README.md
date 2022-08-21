@@ -5,7 +5,8 @@
 - Notebook_3 : Standard workflow and Linear Regression
 - Notebook_4 : Standard workflow and Logistic Regression
 - notebook_5 : Neural Networks, Activation Functions and Digit Recognition
-- Notebook_6 : Binary Classification 
+
+
 - Notebook_7 : Multiclass Classification 
 - Notebook_8 : Recurrent Neural Networks and Name Classification
 - Notebook_9 : Convolutional Neural Networks and Computer Vision 

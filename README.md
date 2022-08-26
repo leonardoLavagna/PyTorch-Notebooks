@@ -6,9 +6,9 @@
 - Notebook_4 : Standard workflow and Logistic Regression
 - Notebook_5 : Multiclass classification
 - Notebook_6 : Neural Networks, Activation Functions and Digit Recognition
+- Notebook_7 : Recurrent Neural Networks and Name Classification
 
 To do:
-- Notebook_7 : Recurrent Neural Networks and Name Classification
 - Notebook_8 : Convolutional Neural Networks and Computer Vision 
 - Notebook_9 : Application of Convolutional Neural Networks to an Image Recognition problem 
 - Notebook_10 : Modularity and Transfer Learning 

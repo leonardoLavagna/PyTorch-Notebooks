@@ -2,13 +2,14 @@
 Here we collect a series of notebooks to familiarize with some important data processing and analysis pipelines based on PyTorch (https://pytorch.org/).
 
 ### What's in here?
-- Notebook_1 : Fundamentals
-- Notebook_2 : Gradients, Optimizers and Loss Functions
-- Notebook_3 : Standard workflow and Linear Regression
-- Notebook_4 : Standard workflow and Logistic Regression
-- Notebook_5 : Multiclass classification
-- Notebook_6 : Neural Networks, Activation Functions and Digit Recognition
-- Notebook_7 : Recurrent Neural Networks and Name Classification
+- `Notebook_1.ipynb` : Fundamentals
+- `Notebook_2.ipynb` : Gradients, Optimizers and Loss Functions
+- `Notebook_3.ipynb` : Standard workflow and Linear Regression
+- `Notebook_4.ipynb` : Standard workflow and Logistic Regression
+- `Notebook_5.ipynb` : Multiclass classification
+- `Notebook_6.ipynb` : Neural Networks, Activation Functions and Digit Recognition
+- `Notebook_7.ipynb` : Recurrent Neural Networks and Name Classification
+- `helper_functions.py`: Auxiliary functions needed in some of the previous notebooks
 
 To do:
 - Notebook_8 : Convolutional Neural Networks and Computer Vision 
